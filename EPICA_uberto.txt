@@ -1,0 +1,11 @@
+EPICA
+
+Estimado equipo:
+Nuestro cliente es un app de viajes. Estan necesitando una base
+de datos conformada por 3 tablas y nos sugieren algunos campos
+que podrian contener:
+Tabla Usuario(identificador,nombre usuario, número de telefono)
+Tabla Conductor(identificador,nombre conductor, matrícula del
+automovil)
+Tabla Viajes(identificador, usuario,conductor,matricula,origen,
+destino)
